@@ -13,3 +13,4 @@ Add login functionality and token-based authentication.
 Register JWT authentication and authorization in the application pipeline.
 Implement API endpoints for retrieving and updating user profiles.
 Add endpoints to create, retrieve, update and manage events.
+Implement category endpoints for organizing RaceDay events.
