@@ -7,3 +7,4 @@ Add user and organiser entities with their required properties.
 Define participant and event entities for the RaceDay system.
 Add the result entity to store participant race results
 Define entity relationships, primary keys and foreign key constraints.
+Create request DTOs for user registration and authentication.
