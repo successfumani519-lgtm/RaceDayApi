@@ -11,3 +11,4 @@ Create request DTOs for user registration and authentication.
 Add the API endpoint for registering RaceDay users.
 Add login functionality and token-based authentication.
 Register JWT authentication and authorization in the application pipeline.
+Implement API endpoints for retrieving and updating user profiles.
