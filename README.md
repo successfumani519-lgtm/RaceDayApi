@@ -15,3 +15,4 @@ Implement API endpoints for retrieving and updating user profiles.
 Add endpoints to create, retrieve, update and manage events.
 Implement category endpoints for organizing RaceDay events.
 Add functionality for participants to enrol in events.
+Implement endpoints for recording and retrieving race results.
